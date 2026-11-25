@@ -24,8 +24,22 @@
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0049-group-anagrams](https://github.com/Sankalpps/Leetcode-Soln/tree/main/0049-group-anagrams/) | Medium |
+| [0164-maximum-gap](https://github.com/Sankalpps/Leetcode-Soln/tree/main/0164-maximum-gap/) | Medium |
 ## Sorting
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0049-group-anagrams](https://github.com/Sankalpps/Leetcode-Soln/tree/main/0049-group-anagrams/) | Medium |
+| [0164-maximum-gap](https://github.com/Sankalpps/Leetcode-Soln/tree/main/0164-maximum-gap/) | Medium |
+## Bucket Sort
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0164-maximum-gap](https://github.com/Sankalpps/Leetcode-Soln/tree/main/0164-maximum-gap/) | Medium |
+## Radix Sort
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0164-maximum-gap](https://github.com/Sankalpps/Leetcode-Soln/tree/main/0164-maximum-gap/) | Medium |
+## Pigeonhole Principle
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0164-maximum-gap](https://github.com/Sankalpps/Leetcode-Soln/tree/main/0164-maximum-gap/) | Medium |
 <!---LeetCode Topics End-->
