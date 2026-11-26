@@ -5,6 +5,7 @@
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [2544-alternating-digit-sum](https://github.com/Sankalpps/Leetcode-Soln/tree/main/2544-alternating-digit-sum/) | Easy |
+| [3360-stone-removal-game](https://github.com/Sankalpps/Leetcode-Soln/tree/main/3360-stone-removal-game/) | Easy |
 ## Hash Table
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -42,4 +43,8 @@
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0164-maximum-gap](https://github.com/Sankalpps/Leetcode-Soln/tree/main/0164-maximum-gap/) | Medium |
+## Simulation
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [3360-stone-removal-game](https://github.com/Sankalpps/Leetcode-Soln/tree/main/3360-stone-removal-game/) | Easy |
 <!---LeetCode Topics End-->
