@@ -14,6 +14,7 @@
 ## String
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/Sankalpps/Leetcode-Soln/tree/main/0028-find-the-index-of-the-first-occurrence-in-a-string/) | Easy |
 | [0049-group-anagrams](https://github.com/Sankalpps/Leetcode-Soln/tree/main/0049-group-anagrams/) | Medium |
 | [1781-sum-of-beauty-of-all-substrings](https://github.com/Sankalpps/Leetcode-Soln/tree/main/1781-sum-of-beauty-of-all-substrings/) | Medium |
 | [2124-check-if-all-as-appears-before-all-bs](https://github.com/Sankalpps/Leetcode-Soln/tree/main/2124-check-if-all-as-appears-before-all-bs/) | Easy |
@@ -47,4 +48,24 @@
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [3360-stone-removal-game](https://github.com/Sankalpps/Leetcode-Soln/tree/main/3360-stone-removal-game/) | Easy |
+## Two Pointers
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/Sankalpps/Leetcode-Soln/tree/main/0028-find-the-index-of-the-first-occurrence-in-a-string/) | Easy |
+## String Matching
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/Sankalpps/Leetcode-Soln/tree/main/0028-find-the-index-of-the-first-occurrence-in-a-string/) | Easy |
+## Z Algorithm
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/Sankalpps/Leetcode-Soln/tree/main/0028-find-the-index-of-the-first-occurrence-in-a-string/) | Easy |
+## Knuth–Morris–Pratt Algorithm
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/Sankalpps/Leetcode-Soln/tree/main/0028-find-the-index-of-the-first-occurrence-in-a-string/) | Easy |
+## Boyer–Moore String-Search Algorithm
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/Sankalpps/Leetcode-Soln/tree/main/0028-find-the-index-of-the-first-occurrence-in-a-string/) | Easy |
 <!---LeetCode Topics End-->
